@@ -1,0 +1,38 @@
+body h1{
+    text-align: center;
+    color: rgb(165, 123, 67);
+}
+p {
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(63, 223, 148);
+}
+  header img{
+    border-radius: 10px;
+  }
+
+  nav{
+    border: 5px solid aqua ;
+  
+  }
+
+nav a{
+  text-decoration: none;
+}
+
+footer{
+  background-color: aqua;
+}
+
+main{
+  margin: 10px;
+  padding: 10px;
+}
+
+
+
+
+    
+
